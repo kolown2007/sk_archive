@@ -1,3 +1,15 @@
+---
+title: manila lights
+slug: manila lights
+date: 2025-06-15
+updated:
+  "{ date }":
+author: Low Bandwidth Dreams
+category: News
+tags:
+description: Announcement
+status: published
+---
 
 ## Manila Lights
 (tentative name/ not final)
