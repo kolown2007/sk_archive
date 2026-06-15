@@ -1,3 +1,8 @@
+
+## Manila Lights
+(tentative name/ not final)
+
+
 The project prompts artists to watch the film "Manila: Sa mga Kuko ng Liwanag" by Lino Brocka. It will draw inspiration from various Manila streets, connecting the past, present, and future.
 
 The project will explore Manila from the POV of three artists from Manila and collaborator KoloWn on technical and exhibit design from an outsider's POV.
