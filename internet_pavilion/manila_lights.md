@@ -14,16 +14,17 @@ status: published
 ## Manila Lights
 by Low Bandwidth Dreams
 
+Manila is a city defined by contradictions—a capital that dazzles with relentless neon and commercial glow, yet frequently hides its deepest struggles in the shadows. 
 
-The project prompts artists to watch the film "Manila: Sa mga Kuko ng Liwanag" by Lino Brocka. It will draw inspiration from various Manila streets, connecting the past, present, and future.
+This project invites artists to engage with Lino Brocka’s seminal film, _Manila: In the Claws of Light_ (_Manila: Sa mga Kuko ng Liwanag_), using its stark portrayal of urban life as a lens to explore the city's complex layers of past, present, and future.
 
-The project will explore Manila from the POV of the 4 artists:
+By examining Manila through the perspectives of four artists, the project reveals how the city’s artificial brilliance often serves as a backdrop to its most profound human experiences:
 
-**Rhaz Oriente** will explore the streets of Poblacion, Makati through her modular light boxes. Poblacion, known as a red-light district, features prostitution as one of the elements in the film.
-
-**Roan Alvarez** will create DIY light signage inspired by the current Ongpin and Binondo, as well as the DIY tech in Recto. The project will also draw inspiration from the Chua Tek Trading Company.
-
-**Christina Lopez** will take inspiration from the EDSA billboards, with a focus on the Guadalupe area. She will create generative videos from these materials, which will be shown on three monitor screens in the space.
-
-**Shara Francisco** will create a video inspired from the streets of Escolta.
+- **Rhaz Oriente** explores the streets of Poblacion, Makati, through modular light boxes, juxtaposing the district’s vibrant nightlife with the darker realities of exploitation featured in the film.
+- 
+- **Roan Alvarez** creates DIY light signage inspired by the streets of Ongpin and Binondo, as well as the resourceful, survivalist tech culture of Recto, while drawing on the haunting **cultural legacy of the fictional Chua Tek Trading Company** to examine the city’s history of exploitation.
+    
+- **Christina Lopez** draws inspiration from the towering EDSA billboards, specifically around the Guadalupe area. She will create generative videos that highlight the overwhelming saturation of commercial light and advertising.
+    
+- **Shara Francisco** crafts a video installation inspired by the storied, complex streets of Escolta, connecting historical memory with the contemporary urban experience.
 
